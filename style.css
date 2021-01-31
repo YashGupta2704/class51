@@ -1,0 +1,15 @@
+.new{
+    display: flex;
+    flex-direction: inherit;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+border-radius: 20px;
+background-color: white;
+width: 310px;
+}
